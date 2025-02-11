@@ -2,3 +2,5 @@
 Some mods created for AJT, PC Only(Might aswell port them them NSW)
 ## PC mods
 - **Asinine Attorney** (Brings back the Asinine Attorney cases from the 3DS Version)[Currently WIP]<br>
+## NSW mods
+- **Asinine Attorney** (Brings back the Asinine Attorney cases from the 3DS Version)[Currently WIP]<br>
