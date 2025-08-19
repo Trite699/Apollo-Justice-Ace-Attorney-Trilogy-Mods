@@ -1,0 +1,7 @@
+"aa5_gmd_dir_path"=""
+"aa5_user2_dir_path"=""
+"aa5_output_dir_path"=""
+"aa6_gmd_dir_path"=""
+"aa6_user2_dir_path"=""
+"aa6_output_dir_path"=""
+"user2_extension"=".en"
