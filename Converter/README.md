@@ -150,3 +150,4 @@ TGS_TRIAL_END
 TRIAL_AUTO_RESET
 TRIAL_END
 ```
+ill add info about other converters soon.........
